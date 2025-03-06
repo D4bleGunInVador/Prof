@@ -1,0 +1,5 @@
+{
+  "hud.unlitcampfire.n_seconds": "Burn time: %ds",
+  "hud.unlitcampfire.infinite": "Burns forever",
+  "config.jade.plugin_unlitcampfire.campfireinfo": "Show remaining burn time"
+}

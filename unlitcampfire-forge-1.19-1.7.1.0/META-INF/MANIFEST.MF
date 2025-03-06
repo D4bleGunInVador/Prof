@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: UnlitCampfire
+Specification-Vendor: Cech12
+Specification-Version: 1.19-1.7.1.0
+Implementation-Title: UnlitCampfire
+Implementation-Version: 1.19-1.7.1.0
+Implementation-Vendor: Cech12
+Implementation-Timestamp: 2023-05-24T16:25:47+0000
+MixinConfigs: unlitcampfire.mixins.json
+
